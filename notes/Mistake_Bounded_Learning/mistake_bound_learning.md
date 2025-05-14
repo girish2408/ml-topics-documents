@@ -94,25 +94,3 @@ Until model converges to user-preferred pattern
 * **Mistake Bounded Learning** is great for systems that learn continuously
 * Common in real-time applications like **autocorrect, email suggestions, voice assistants**
 * With each mistake, the system becomes smarter
-
----
-
-## 🧩 Keywords
-
-`Mistake Bound`, `Online Learning`, `Monotone Disjunction`, `Streaming Model`, `Autocorrect`, `Personalization`, `Apple Siri`
-
----
-
-### 📁 GitHub Tip:
-
-You can now add this note under:
-
-```
-/notes/mistake_bound_learning.md
-```
-
-And link it from your README.md as:
-
-```markdown
-- [Mistake Bounded Learning](notes/mistake_bound_learning.md)
-```
